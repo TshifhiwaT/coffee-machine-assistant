@@ -73,7 +73,6 @@ A smart coffee assistant simulation using **ESP32** on **Wokwi**. Monitors coffe
 - The repository contains:
   - `sketch.ino` → Main code  
   - `wokwi.json` → Wokwi simulation file  
-  - Optional: `images/` → Screenshots or GIFs of simulation  
 
 - Wokwi simulation link can be used to **run the project in a browser** without hardware.
 
